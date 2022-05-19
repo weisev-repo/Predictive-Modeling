@@ -1,0 +1,33 @@
+'@id': https://renkulab.io/projects/HSLU-Predictive-Modeling/hslu-predictive-modeling-in-R
+'@type':
+- http://schema.org/Project
+- http://www.w3.org/ns/prov#Location
+http://schema.org/agent: 0.16.0
+http://schema.org/creator:
+  '@id': mailto:simon.vanhemert@hslu.ch
+  '@type':
+  - http://schema.org/Person
+  - http://www.w3.org/ns/prov#Person
+  http://schema.org/affiliation: null
+  http://schema.org/alternateName: null
+  http://schema.org/email: simon.vanhemert@hslu.ch
+  http://schema.org/name: Simon van Hemert
+  http://www.w3.org/2000/01/rdf-schema#label: Simon van Hemert
+http://schema.org/dateCreated: '2020-11-19T10:37:00.226696+00:00'
+http://schema.org/name: review probability and statistics R
+http://schema.org/schemaVersion: '8'
+https://swissdatasciencecenter.github.io/renku-ontology#automatedTemplateUpdate: false
+https://swissdatasciencecenter.github.io/renku-ontology#immutableTemplateFiles: []
+https://swissdatasciencecenter.github.io/renku-ontology#templateId: R-minimal
+https://swissdatasciencecenter.github.io/renku-ontology#templateMetadata: '{"__template_source__":
+  "https://github.com/SwissDataScienceCenter/renku-project-template", "__template_ref__":
+  "0.1.13", "__template_id__": "R-minimal", "__namespace__": "simon.vanhemert", "__automated_update__":
+  true, "__repository__": "https://renkulab.io/gitlab", "__sanitized_project_name__":
+  "review-probability-and-statistics-r", "__project_slug__": "simon.vanhemert/review-probability-and-statistics-r",
+  "description": "Containing the R scripts on the Review of Probability and Statistics
+  for following Chapters: Probability Models for Measurement Data, Statistics for
+  Measurement Data, Joint Distributions", "name": "review probability and statistics
+  R"}'
+https://swissdatasciencecenter.github.io/renku-ontology#templateReference: 0.1.13
+https://swissdatasciencecenter.github.io/renku-ontology#templateSource: https://github.com/SwissDataScienceCenter/renku-project-template
+https://swissdatasciencecenter.github.io/renku-ontology#templateVersion: null
